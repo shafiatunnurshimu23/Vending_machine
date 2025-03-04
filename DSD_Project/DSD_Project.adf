@@ -1,0 +1,70 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+[Configurations]
+compile=DSD_Project
+[Library]
+DSD_Project=.\DSD_Project\DSD_Project.lib
+[$LibMap$]
+DSD_Project=.
+Active_lib=
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VERILOG
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+[Files]
+/half_adder.v=-1
+/full_adder.v=-1
+/parallel_adder.v=-1
+/DFF.v=-1
+/parallel_subtractor.v=-1
+/multiplier_4bit.v=-1
+/test_multiplier_4bit.v=-1
+/test_parallel_subtractor.v=-1
+/comparator_4bit.v=-1
+/test_comparator_4bit.v=-1
+/control_logic.v=-1
+/alu_4bit.v=-1
+/test_alu_4bit.v=-1
+/vending_machine.v=-1
+/test_control_logic.v=-1
+/Decoder3to8.v=-1
+/D_Flip_Flop.v=-1
+/Register.v=-1
+/test_Register.v=-1
+/return_value.v=-1
+/dispense.v=-1
+/con8to1.v=-1
+/parallel_subtractor.v=-1
+[Files.Data]
+.\src\half_adder.v=Verilog Source Code
+.\src\full_adder.v=Verilog Source Code
+.\src\parallel_adder.v=Verilog Source Code
+.\src\DFF.v=Verilog Source Code
+.\src\parallel_subtractor.v=Verilog Source Code
+.\src\multiplier_4bit.v=Verilog Source Code
+.\src\test_multiplier_4bit.v=Verilog Source Code
+.\src\test_parallel_subtractor.v=Verilog Source Code
+.\src\comparator_4bit.v=Verilog Source Code
+.\src\test_comparator_4bit.v=Verilog Source Code
+.\src\control_logic.v=Verilog Source Code
+.\src\alu_4bit.v=Verilog Source Code
+.\src\test_alu_4bit.v=Verilog Source Code
+.\src\vending_machine.v=Verilog Source Code
+.\src\test_control_logic.v=Verilog Source Code
+.\src\Decoder3to8.v=Verilog Source Code
+.\src\D_Flip_Flop.v=Verilog Source Code
+.\src\Register.v=Verilog Source Code
+.\src\test_Register.v=Verilog Source Code
+.\src\return_value.v=Verilog Source Code
+.\src\dispense.v=Verilog Source Code
+.\src\con8to1.v=Verilog Source Code
+.\src\parallel_subtractor.v=Verilog Source Code
+[HierarchyViewer]
+HierarchyInformation=
+ShowHide=ShowTopLevel
+Selected=

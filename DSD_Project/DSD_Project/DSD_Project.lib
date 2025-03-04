@@ -1,0 +1,281 @@
+timestamp=1737350420857
+
+[~A]
+C:/Users/HP/Downloads/DSD_Project/DSD_Project/DSD_Project/src/D_Flip_Flop.v=0*162956*163551
+C:/Users/HP/Downloads/DSD_Project/DSD_Project/DSD_Project/src/Decoder3to8.v=0*161184*161779
+C:/Users/HP/Downloads/DSD_Project/DSD_Project/DSD_Project/src/control_logic.v=0*166708*167449
+C:/Users/HP/Downloads/DSD_Project/DSD_Project/DSD_Project/src/dispense.v=0*197896*198344
+C:/Users/HP/Downloads/DSD_Project/DSD_Project/DSD_Project/src/half_adder.v_full_adder.v_parallel_adder.v_DFF.v_Register8Bit.v_parallel_subtractor.v_multiplier_4bit.v_test_multiplier_4bit.v_test_parallel_subtractor.v_comparator_4bit.v_test_comparator_4bit.v_modulus_checker_4bit.v_test_modulus_checker_4bit.v_control_logic.v_alu_4bit.v_test_alu_4bit.v_vending_machine.v_test_vending_machine.v_test_control_logic.v=0*154094*159507
+C:/Users/HP/Downloads/DSD_Project/DSD_Project/DSD_Project/src/half_adder.v_full_adder.v_parallel_adder.v_DFF.v_Register8Bit.v_parallel_subtractor.v_multiplier_4bit.v_test_multiplier_4bit.v_test_parallel_subtractor.v_comparator_4bit.v_test_comparator_4bit.v_modulus_checker_4bit.v_test_modulus_checker_4bit.v_control_logic.v_alu_4bit.v_test_alu_4bit.v_vending_machine.v_test_vending_machine.v_test_control_logic.v_Decoder3to8.v_D_Flip_Flop.v_Register.v_test_Register.v=0*188630*194450
+C:/Users/HP/Downloads/DSD_Project/DSD_Project/DSD_Project/src/return_value.v=0*196270*196722
+C:/Users/HP/Downloads/DSD_Project/DSD_Project/DSD_Project/src/test_control_logic.v=0*168583*169281
+C:/Users/HP/Downloads/Final project/DSD_Project/DSD_Project/src/parallel_subtractor.v=0*338420*339057
+C:/Users/HP/Downloads/Final project/DSD_Project/DSD_Project/src/vending_machine.v=0*335902*337128
+C:/Users/ccc/Desktop/DSD_Project/DSD_Project/src/comparator_4bit.v=0*89862*90368
+C:/Users/ccc/Desktop/DSD_Project/DSD_Project/src/control_logic.v_control_logic_tb.v=0*124057*125749
+C:/Users/ccc/Desktop/DSD_Project/DSD_Project/src/control_logic.v_vending_machine.v_test_vending_machine.v=0*102879*104785
+C:/Users/ccc/Desktop/DSD_Project/DSD_Project/src/full_adder.v=0*8685*9186
+C:/Users/ccc/Desktop/DSD_Project/DSD_Project/src/half_adder.v=0*7276*7713
+C:/Users/ccc/Desktop/DSD_Project/DSD_Project/src/half_adder.v_full_adder.v_parallel_adder.v_DFF.v_Register8Bit.v=0*1470*2871
+C:/Users/ccc/Desktop/DSD_Project/DSD_Project/src/half_adder.v_full_adder.v_parallel_adder.v_DFF.v_Register8Bit.v_parallel_subtractor.v=0*12903*14214
+C:/Users/ccc/Desktop/DSD_Project/DSD_Project/src/half_adder.v_full_adder.v_parallel_adder.v_DFF.v_Register8Bit.v_parallel_subtractor.v_multiplier_4bit.v_test_multiplier_4bit.v=0*34400*36216
+C:/Users/ccc/Desktop/DSD_Project/DSD_Project/src/half_adder.v_full_adder.v_parallel_adder.v_DFF.v_Register8Bit.v_parallel_subtractor.v_multiplier_4bit.v_test_multiplier_4bit.v_test_parallel_subtractor.v=0*40874*42877
+C:/Users/ccc/Desktop/DSD_Project/DSD_Project/src/half_adder.v_full_adder.v_parallel_adder.v_DFF.v_Register8Bit.v_parallel_subtractor.v_multiplier_4bit.v_test_multiplier_4bit.v_test_parallel_subtractor.v_comparator_4bit.v_test_comparator_4bit.v=0*46538*48806
+C:/Users/ccc/Desktop/DSD_Project/DSD_Project/src/half_adder.v_full_adder.v_parallel_adder.v_DFF.v_Register8Bit.v_parallel_subtractor.v_multiplier_4bit.v_test_multiplier_4bit.v_test_parallel_subtractor.v_comparator_4bit.v_test_comparator_4bit.v_modulus_checker_4bit.v_test_modulus_checker_4bit.v=0*54657*57264
+C:/Users/ccc/Desktop/DSD_Project/DSD_Project/src/half_adder.v_full_adder.v_parallel_adder.v_DFF.v_Register8Bit.v_parallel_subtractor.v_multiplier_4bit.v_test_multiplier_4bit.v_test_parallel_subtractor.v_comparator_4bit.v_test_comparator_4bit.v_modulus_checker_4bit.v_test_modulus_checker_4bit.v_control_logic.v=0*75893*79188
+C:/Users/ccc/Desktop/DSD_Project/DSD_Project/src/half_adder.v_full_adder.v_parallel_adder.v_DFF.v_Register8Bit.v_parallel_subtractor.v_multiplier_4bit.v_test_multiplier_4bit.v_test_parallel_subtractor.v_comparator_4bit.v_test_comparator_4bit.v_modulus_checker_4bit.v_test_modulus_checker_4bit.v_control_logic.v_alu_4bit.v_test_alu_4bit.v=0*84480*88314
+C:/Users/ccc/Desktop/DSD_Project/DSD_Project/src/half_adder.v_full_adder.v_parallel_adder.v_DFF.v_Register8Bit.v_parallel_subtractor.v_multiplier_4bit.v_test_multiplier_4bit.v_test_parallel_subtractor.v_comparator_4bit.v_test_comparator_4bit.v_modulus_checker_4bit.v_test_modulus_checker_4bit.v_control_logic.v_alu_4bit.v_test_alu_4bit.v_vending_machine.v_test_vending_machine.v=0*131378*136101
+C:/Users/ccc/Desktop/DSD_Project/DSD_Project/src/half_adder.v_full_adder.v_parallel_adder.v_DFF.v_Register8Bit.v_parallel_subtractor.v_multiplier_4bit.v_test_multiplier_4bit.v_test_parallel_subtractor.v_comparator_4bit.v_test_comparator_4bit.v_modulus_checker_4bit.v_test_modulus_checker_4bit.v_control_logic.v_alu_4bit.v_test_alu_4bit.v_vending_machine.v_test_vending_machine.v_control_logic_tb.v=0*110612*115738
+C:/Users/ccc/Desktop/DSD_Project/DSD_Project/src/half_adder.v_full_adder.v_parallel_adder.v_DFF.v_Register8Bit.v_parallel_subtractor.v_multiplier_4bit.v_test_multiplier_4bit.v_test_parallel_subtractor.v_comparator_4bit.v_test_comparator_4bit.v_modulus_checker_4bit.v_test_modulus_checker_4bit.v_control_logic.v_alu_4bit.v_test_alu_4bit.v_vending_machine.v_test_vending_machine.v_test_control_logic.v=0*142403*147771
+C:/Users/ccc/Desktop/DSD_Project/DSD_Project/src/modulus_checker_4bit.v=0*62287*62926
+C:/Users/ccc/Desktop/DSD_Project/DSD_Project/src/modulus_checker_4bit.v_test_modulus_checker_4bit.v=0*70594*71501
+C:/Users/ccc/Desktop/DSD_Project/DSD_Project/src/multiplier_4bit.v=0*31049*31699
+C:/Users/ccc/Desktop/DSD_Project/DSD_Project/src/parallel_adder.v=0*10181*10718
+C:/Users/ccc/Desktop/DSD_Project/DSD_Project/src/test_comparator_4bit.v=0*50078*50669
+C:/Users/ccc/Desktop/DSD_Project/DSD_Project/src/test_modulus_checker_4bit.v=0*63972*64600
+C:/Users/ccc/Desktop/DSD_Project/DSD_Project/src/test_multiplier_4bit.v=0*37388*37947
+C:/Users/ccc/Desktop/Final/DSD_Project/DSD_Project/src/alu_4bit.v_vending_machine.v=0*318139*319783
+C:/Users/ccc/Desktop/Final/DSD_Project/DSD_Project/src/half_adder.v_full_adder.v_parallel_adder.v_DFF.v_Register8Bit.v_parallel_subtractor.v_multiplier_4bit.v_test_multiplier_4bit.v_test_parallel_subtractor.v_comparator_4bit.v_test_comparator_4bit.v_modulus_checker_4bit.v_test_modulus_checker_4bit.v_control_logic.v_alu_4bit.v_test_alu_4bit.v_vending_machine.v_test_vending_machine.v_test_control_logic.v_Decoder3to8.v_D_Flip_Flop.v_Register.v_test_Register.v_return_value.v_dispense.v=0*218596*224147
+C:/Users/ccc/Desktop/Final/DSD_Project/DSD_Project/src/half_adder.v_full_adder.v_parallel_adder.v_DFF.v_Register8Bit.v_parallel_subtractor.v_multiplier_4bit.v_test_multiplier_4bit.v_test_parallel_subtractor.v_comparator_4bit.v_test_comparator_4bit.v_modulus_checker_4bit.v_test_modulus_checker_4bit.v_control_logic.v_alu_4bit.v_test_alu_4bit.v_vending_machine.v_test_vending_machine.v_test_control_logic.v_Decoder3to8.v_D_Flip_Flop.v_Register.v_test_Register.v_return_value.v_dispense.v_con8to1.v=0*255484*261125
+C:/Users/ccc/Desktop/Final/DSD_Project/DSD_Project/src/half_adder.v_full_adder.v_parallel_adder.v_DFF.v_parallel_subtractor.v_multiplier_4bit.v_test_multiplier_4bit.v_test_parallel_subtractor.v_comparator_4bit.v_test_comparator_4bit.v_control_logic.v_alu_4bit.v_test_alu_4bit.v_vending_machine.v_test_vending_machine.v_test_control_logic.v_Decoder3to8.v_D_Flip_Flop.v_Register.v_test_Register.v_return_value.v_dispense.v_con8to1.v=0*310966*315965
+C:/Users/ccc/Desktop/Final/DSD_Project/DSD_Project/src/half_adder.v_full_adder.v_parallel_adder.v_DFF.v_parallel_subtractor.v_multiplier_4bit.v_test_multiplier_4bit.v_test_parallel_subtractor.v_comparator_4bit.v_test_comparator_4bit.v_modulus_checker_4bit.v_test_modulus_checker_4bit.v_control_logic.v_alu_4bit.v_test_alu_4bit.v_vending_machine.v_test_vending_machine.v_test_control_logic.v_Decoder3to8.v_D_Flip_Flop.v_Register.v_test_Register.v_return_value.v_dispense.v_con8to1.v=0*298469*303871
+C:/Users/ccc/Desktop/Final/DSD_Project/DSD_Project/src/vending_machine.v=0*333427*334644
+LastVerilogToplevel=vending_machine
+ModifyID=81
+Version=74
+
+[~MFT]
+0=4|0DSD_Project.mgf|339057|85780
+1=4|1DSD_Project.mgf|950618|904001
+3=8|3DSD_Project.mgf|579150|550319
+
+[$root]
+A/$root=22|||1*950084
+BinW64/$root=3*578512
+SLP=3*578627
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|c73a565f2ade592f8ac1c68f484c9216d531fb902a3e2819f2d02ab85109bcfc
+
+[DFF]
+A/DFF=22|../src/DFF.v|27|1*872777
+BinW64/DFF=3*529017
+R=../src/DFF.v|27
+SLP=3*529483
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|44300fc340e3bc7a054c52d81b175af6677a3be9c59d945381f59b0ea81f05b9
+
+[D_Flip_Flop]
+A/D_Flip_Flop=22|../src/D_Flip_Flop.v|3|1*887435
+BinW64/D_Flip_Flop=3*538229
+R=../src/D_Flip_Flop.v|3
+SLP=3*538769
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|3035114a8eea3ac612f138148cd45037d65708298f3fe4b2dead010c312b71b0ca7aa66d5fa3782a40cb07535959377f
+
+[Decoder3to8]
+A/Decoder3to8=22|../src/Decoder3to8.v|3|1*888966
+BinW64/Decoder3to8=3*539121
+R=../src/Decoder3to8.v|3
+SLP=3*539242
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|dd5aef8600a5aff65a8bb286c33592c800e82a43fe19e622863bbbb27655b8edee01ff73c244166f245f1d60f90903a9
+
+[Register]
+A/Register=22|../src/Register.v|27|1*900443
+BinW64/Register=3*546303
+R=../src/Register.v|27
+SLP=3*546421
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|7363ea9b581f91c08034b355da367b5eb4470a4173a9ccfce999ce8608f2fc7bb37a4dffa8c2a6328c4b001d313bb711
+
+[Register8Bit]
+BinW64/Register8Bit=3*435919
+R=../src/Register8Bit.v|27
+SLP=3*436418
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|726d7bb545087fe03524c567229dc9258da9a79941b155abf63edb0a6047999b55f0ec4452d04a1da4f354d388c516b6
+
+[alu_4bit]
+A/alu_4bit=22|../src/alu_4bit.v|23|1*908748
+BinW64/alu_4bit=3*550817
+R=../src/alu_4bit.v|23
+SLP=3*551691
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|ce0fad6ba9ac217f7bc0146d86b03a6e87dff3ca29dc89f6fb5ef56f2a729a508abc3cc9b2cdcb102539e591b370e1b5
+
+[bread_board]
+A/bread_board=22|../src/vending_machine.v|27|1*596451
+BinW64/bread_board=3*358960
+R=../src/vending_machine.v|27
+SLP=3*359081
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|515d06278a6d9b36b62e1e82d28547e91318c6a7986d7dfaa4e40e563bdd415cd2bc52fe5ec2945fc2f95276321f933c
+
+[comparator_4bit]
+A/comparator_4bit=22|../src/comparator_4bit.v|27|1*882248
+BinW64/comparator_4bit=3*534958
+R=../src/comparator_4bit.v|27
+SLP=3*535245
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|44222087b98fd98eab2be89f60e7f2251334b171cd2ebd19f2d766f3ee12c5aa5fa7e8c7922794a5dd836fc155d0275f
+
+[con8to1]
+A/con8to1=22|../src/con8to1.v|5|1*907360
+BinW64/con8to1=3*550122
+R=../src/con8to1.v|5
+SLP=3*550469
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|1f1556977199b6a815588416abf6e20826527262ddaa47cb266f3a3c4d9b973a2f3d899bd992379b89259dade24a54f4
+
+[control_logic]
+A/control_logic=22|../src/control_logic.v|27|1*884784
+BinW64/control_logic=3*536950
+R=../src/control_logic.v|27
+SLP=3*537657
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|f96c2189c3698385f875c02440a18f13a17f40922c941617b84c0d2a5e50fc4254d6d58a19fcdf0af22d6582ab7908f9
+
+[control_logic_tb]
+A/control_logic_tb=22|../src/control_logic_tb.v|3|1*337446
+BinW64/control_logic_tb=3*198153
+R=../src/control_logic_tb.v|3
+SLP=3*199198
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|f96c2189c3698385f875c02440a18f1324ec5098decfcbee25e9c6edc957125c6006004b63a32307ac04f5d58a348e73
+
+[dispense]
+A/dispense=22|../src/dispense.v|27|1*906510
+BinW64/dispense=3*549628
+R=../src/dispense.v|27
+SLP=3*549971
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|9cf30089c45ae3188f16266a103d7995ff4b26329801fe0590e5a751b0c393b1eb59974deb4c7ba395cecaa34188e9ad
+
+[full_adder]
+A/full_adder=22|../src/full_adder.v|23|1*869743
+BinW64/full_adder=3*528057
+R=../src/full_adder.v|23
+SLP=3*528388
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|b6bc4c72c6b4732d30366d04e0b9d81ca93b35da59acef6f28d70118359e933ec88db41dba7723566962a4d609ea2bee
+
+[half_adder]
+A/half_adder=22|../src/half_adder.v|23|1*868802
+BinW64/half_adder=3*527500
+R=../src/half_adder.v|23
+SLP=3*527867
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|9d478890ab412e42d6b75255d560236f41ab0ed49771ee80612b3666c997a9c2599c70d02c6db6ad04cb0b442651cdbe
+
+[modulus_checker_4bit]
+BinW64/modulus_checker_4bit=3*510599
+R=../src/modulus_checker_4bit.v|27
+SLP=3*511358
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|d54f242d4e12ef9393089d991a9434c3cad68cfb1adcd8d88e8074901ff1963dfaa968e013bd560e34a23cac69c0ba55
+
+[multiplier_4bit]
+A/multiplier_4bit=22|../src/multiplier_4bit.v|3|1*875894
+BinW64/multiplier_4bit=3*530539
+R=../src/multiplier_4bit.v|3
+SLP=3*531279
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|c79ea88600d6472256968bfa9ae432346417ec52224efdb58666d02872c4e584df2514a471a411eddb9116bb85551c07
+
+[parallel_adder]
+A/parallel_adder=22|../src/parallel_adder.v|23|1*871124
+BinW64/parallel_adder=3*528557
+R=../src/parallel_adder.v|23
+SLP=3*528681
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|924f68251de2b29003b847e6811f8d6a4cd34d98929353c95ff0370f4fc71b0a0c5f4dcf1756fd38686ad503dd7cc03d
+
+[parallel_subtractor]
+A/parallel_subtractor=22|../src/parallel_subtractor.v|23|1*950618
+BinW64/parallel_subtractor=3*578695
+R=../src/parallel_subtractor.v|23
+SLP=3*579150
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|64bf1fdb40f35ce79e2ce8dd1aca802c542efa0bc58c450d240523711c0068c9447dc013c0636ac182d37fa4dec9631a
+
+[return_value]
+A/return_value=22|../src/return_value.v|27|1*902743
+BinW64/return_value=3*546677
+R=../src/return_value.v|27
+SLP=3*547126
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|383425db302969d86d4fe2b9a3339587c4b800f0f39e96846e42d606f2326a7fd397ccce2a8468bc8642fd461b47b68f
+
+[test_Register]
+A/test_Register=22|../src/test_Register.v|27|1*905967
+BinW64/test_Register=3*549420
+R=../src/test_Register.v|27
+SLP=3*549543
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|5dcbf3dffa804b646c240bbcc10c65ea10fb294b833cf01a6d8c0cce663d1710f18d3f5ea8bd615d4e82de5cd84f3040
+
+[test_alu_4bit]
+A/test_alu_4bit=22|../src/test_alu_4bit.v|1|1*894408
+BinW64/test_alu_4bit=3*541008
+R=../src/test_alu_4bit.v|1
+SLP=3*542333
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|bb3cb50f92475c811fcf83b5513426a7aeb36d2b8ec9aecb2697bdca200de89dc9d0d4786304eb9572bf6f93a2953362
+
+[test_comparator_4bit]
+A/test_comparator_4bit=22|../src/test_comparator_4bit.v|23|1*883465
+BinW64/test_comparator_4bit=3*535432
+R=../src/test_comparator_4bit.v|23
+SLP=3*536421
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|8dc4f36d2ab5610583c09f8c6c0fc2e769b2ef71377df3ea21d52424d12f7ea065ae604adb53e20893c9897a33f94bbd
+
+[test_control_logic]
+A/test_control_logic=22|../src/test_control_logic.v|1|1*904278
+BinW64/test_control_logic=3*547558
+R=../src/test_control_logic.v|1
+SLP=3*548776
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|b7f24e1921bdb7fa47b83a7622d40def1acfc6d2a68fda5348e46c2dca2f5c1466128b193459e07e65c6f91b7cf9ad7a
+
+[test_modulus_checker_4bit]
+A/test_modulus_checker_4bit=22|../src/test_modulus_checker_4bit.v|1|1*843487
+BinW64/test_modulus_checker_4bit=3*511694
+R=../src/test_modulus_checker_4bit.v|1
+SLP=3*512862
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|a1d36c4d8b2ecf730c73057b2a969270636382e96da5e404899a82af41439c58b8e642b7f3e0c42c29b0cc1c15ca72de247ec2cbd9dc74e3fae44093e2c8c3dc
+
+[test_multiplier_4bit]
+A/test_multiplier_4bit=22|../src/test_multiplier_4bit.v|1|1*879344
+BinW64/test_multiplier_4bit=3*531886
+R=../src/test_multiplier_4bit.v|1
+SLP=3*532798
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|ee51966d55dd661d6ec8b7a084d681eb16686e90fbaff92d5c7924b041bc49c6e9347e0002e5084a7da6562f69445f1d
+
+[test_parallel_subtractor]
+A/test_parallel_subtractor=22|../src/test_parallel_subtractor.v|1|1*880723
+BinW64/test_parallel_subtractor=3*533315
+R=../src/test_parallel_subtractor.v|1
+SLP=3*534394
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|0a7a11763d6108c39dd851206bc3a1b1d78289b89096db2faebb70a6b8a9784387dff3ca29dc89f6fb5ef56f2a729a50da8231e57b98c0af6397e5e8bdb1f848
+
+[test_vending_machine]
+A/test_vending_machine=22|../src/test_vending_machine.v|1|1*903695
+BinW64/test_vending_machine=3*547329
+R=../src/test_vending_machine.v|1
+SLP=3*547459
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|edaf377d83c80eee673e9ab448c3e63f1fe203c2154e7e1122e8abd45069ecbb8288200222f5bc881c628f681c15a651
+
+[vending_machine]
+A/vending_machine=22|../src/vending_machine.v|3|1*945743
+BinW64/vending_machine=3*575383
+R=../src/vending_machine.v|3
+SLP=3*577222
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|41f7554c8d47e419e69b2556d1042df87fcde992a1daa56e657bb0d6cfab94679a7ddeef453b5e41be3e982b028c8fe4
+
+[~U]
+$root=12|0*337690|
+DFF=12|0*306263|
+D_Flip_Flop=12|0*308204|
+Decoder3to8=12|0*308435|
+Register=12|0*309550|
+Register8Bit=12|0*250243||0x10
+alu_4bit=12|0*317554|
+bread_board=12|0*203740||0x10
+comparator_4bit=12|0*307450|
+con8to1=12|0*310760||0x10
+control_logic=12|0*307941|
+control_logic_tb=12|0*123876||0x10
+dispense=12|0*310565||0x10
+full_adder=12|0*305768|
+half_adder=12|0*305559|
+modulus_checker_4bit=12|0*294924|
+multiplier_4bit=12|0*306746|
+parallel_adder=12|0*306000|
+parallel_subtractor=12|0*338160|
+return_value=12|0*309795|
+test_Register=12|0*310399||0x10
+test_alu_4bit=12|0*308970||0x10
+test_comparator_4bit=12|0*307712||0x10
+test_control_logic=12|0*310185||0x10
+test_modulus_checker_4bit=12|0*295204||0x10
+test_multiplier_4bit=12|0*307008||0x10
+test_parallel_subtractor=12|0*307229||0x10
+test_vending_machine=12|0*310005||0x10
+vending_machine=12|0*335635||0x10
